@@ -36,4 +36,4 @@
 
 ### 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DimitriosNicolay)
-[![Email](https://img.shields.io/badge/Email-example@domain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@dnicolay.de)
+[![Email](https://img.shields.io/badge/Email-hey@dnicolay.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@dnicolay.de)
