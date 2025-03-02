@@ -3,7 +3,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 📦 Tech Stack
 
 **Learning Focus**   
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
@@ -28,7 +28,7 @@
 
 ---
 
-### 📍 Next Goals
+### 📝 Next Goals
 - Implement Kubernetes in homelab
 - Create CI/CD pipeline for personal projects
 - Develop monitoring solution for self-hosted services
