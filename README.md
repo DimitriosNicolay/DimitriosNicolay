@@ -21,7 +21,8 @@
 
 - Part of the team building **GL-IX (Gentlent Internet Exchange)**, improving regional connectivity and offering low-cost peering in central Europe.    
 - Containerized multiple homelab services and optimized Dockerfiles for smaller images and faster builds.  
-- Automated VM provisioning using Ansible and Terraform.    
+- Automated VM provisioning using Ansible and Terraform.
+- Build a personal portfolio site using **TypeScript**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
@@ -39,7 +40,6 @@
 - Explore **Rust** for backend/services and possible native modules.  
 - Deploy Kubernetes in my homelab for learning and experimentation.    
 - Develop a monitoring and alerting setup for self-hosted services.  
-- Build a personal portfolio site using **TypeScript**, **Next.js**, and **Tailwind CSS**.
 - Operating my own network under **AS204801**, including BGP peering and routing experiments.
 
 ---
