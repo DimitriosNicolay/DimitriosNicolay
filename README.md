@@ -1,49 +1,51 @@
-# Hi there, I'm Dimi <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f44b.svg" alt="waving hand" width="22" />
-
-**Aspiring DevOps Engineer** | **NixOS Enjoyer** | **Homelab Explorer**
-
----
-
-### <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/2699.svg" alt="gear" width="18" /> Tech Stack
-
-**Infrastructure & Platform**  
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/) [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)](https://www.proxmox.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/) [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://www.ansible.com/) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/) [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/)
-
-**Development**  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](https://go.dev/)]
-
-**Learning Stack**  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/) [![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+# DIMITRIOS NICOLAY
+**IT SPECIALIST FOR SYSTEM INTEGRATION | AS204801**
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/2705.svg" alt="check" width="18" /> Completed Projects
+### [ SECTION 01: INFRASTRUCTURE ]
+![NixOS](https://img.shields.io/badge/NIXOS-000000?style=for-the-badge&logo=nixos&logoColor=5277C3)
+![Proxmox](https://img.shields.io/badge/PROXMOX-000000?style=for-the-badge&logo=proxmox&logoColor=E74C3C)
+![Ansible](https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
-- Part of the team building **GL-IX (Gentlent Internet Exchange)**, improving regional connectivity and offering low-cost peering in central Europe.    
-- Containerized multiple homelab services and optimized Dockerfiles for smaller images and faster builds.  
-- Automated VM provisioning using Ansible and Terraform.
-- Build a personal portfolio site using **TypeScript**, **Next.js**, and **Tailwind CSS**.
-
----
-
-### <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f6e0.svg" alt="tools" width="18" /> Currently Working On
-
-- Building a cross-platform TV app with **React Native** for platforms like Android TV, Fire TV and Apple TV.  
-- Building a unified NixOS configuration for laptop, homelab server, and future machines.  
-- Deepening Infrastructure as Code skills with Ansible and Terraform.  
-- Improving my Git/GitHub workflow and automation.
+### [ SECTION 02: DEVELOPMENT ]
+![Go](https://img.shields.io/badge/GOLANG-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f680.svg" alt="rocket" width="18" /> Next Goals
-
-- Explore **Rust** for backend/services and possible native modules.  
-- Deploy Kubernetes in my homelab for learning and experimentation.    
-- Develop a monitoring and alerting setup for self-hosted services.  
-- Operating my own network under **AS204801**, including BGP peering and routing experiments.
+### [ SECTION 03: CURRENT PROJECTS ]
+* **AS204801 / BGP Peering** - Operating a personal autonomous system for network research and connectivity.
+* **Infrastructure-as-Code** - Automated homelab deployment and management via NixOS and Ansible.
+* **Network Monitoring** - Implementing observability stacks for real-time infrastructure insights.
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f4e7.svg" alt="email" width="18" /> Contact
+### [ SECTION 04: LEARNING STACK ]
+> **Advanced Observability & Systems Programming**
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/DimitriosNicolay) [![Email](https://img.shields.io/badge/hey@dnicolay.de-3F2147?logo=maildotru&logoColor=white)](mailto:hey@dnicolay.de)
+![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+
+---
+
+### [ SECTION 05: SYSTEM METRICS ]
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimitriosNicolay&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=5277C3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosNicolay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff" />
+</p>
+
+---
+
+### [ SECTION 06: CONNECTIVITY ]
+`DOMAIN:` [dnicolay.de](https://dnicolay.de)  
+`MAIL  :` [hey@dnicolay.de](mailto:hey@dnicolay.de)  
+`STATUS:` `STABLE`
+
+---
