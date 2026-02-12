@@ -35,15 +35,7 @@
 
 ---
 
-### [ SECTION 05: SYSTEM METRICS ]
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimitriosNicolay&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=5277C3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosNicolay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff" />
-</p>
-
----
-
-### [ SECTION 06: CONNECTIVITY ]
+### [ SECTION 05: CONNECTIVITY ]
 `DOMAIN:` [dnicolay.de](https://dnicolay.de)  
 `MAIL  :` [hey@dnicolay.de](mailto:hey@dnicolay.de)  
 `STATUS:` `STABLE`
