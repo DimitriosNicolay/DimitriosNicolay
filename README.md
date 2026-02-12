@@ -18,10 +18,10 @@
 
 ---
 
-### [ SECTION 03: CURRENT PROJECTS ]
-* **AS204801 / BGP Peering** - Operating a personal autonomous system for network research and connectivity.
-* **Infrastructure-as-Code** - Automated homelab deployment and management via NixOS and Ansible.
-* **Network Monitoring** - Implementing observability stacks for real-time infrastructure insights.
+### [ SECTION 03: PROJECTS & LAB ]
+* **Anycast Edge Deployment** - Automated Terraform & Ansible combination to deploy cloud edge servers with full BGP (AS204801), Docker, and network configuration within an anycast environment.
+* **Personal Homelab** - Running a dedicated environment for infrastructure testing, NixOS deployments, and service self-hosting.
+* **AS204801 / BGP Peering** - Management of a personal autonomous system for network research and global connectivity.
 
 ---
 
